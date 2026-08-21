@@ -1,0 +1,1 @@
+Separate observations, model outputs, scenarios, inference, and policy judgments. Preserve provenance and uncertainty.
